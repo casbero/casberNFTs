@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x54B4508BD55368F9e10bc103D8D8453Ae8Ce2f01",
+  "SCAN_LINK": "https://polygonscan.com/address/0x54b4508bd55368f9e10bc103d8d8453ae8ce2f01",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rix",
+  "SYMBOL": "RI",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/account",
+  "SHOW_BACKGROUND": true
+}
